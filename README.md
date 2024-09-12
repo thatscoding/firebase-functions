@@ -15,6 +15,20 @@ firebase init
  ###### Add Firebase to an existing Google Cloud Platform project
   ###### Don't set up a default project
 
+
+  ### step : 4 
+   ##### ? Select a default Firebase project for this directory: (Use arrow keys)
+ #### > poonik (Poonik) 
+ #### shrey-india-reward-point-a530f (shrey-india-reward-points) 
+  ##### shreysportsaus (ShreySportsAus) 
+  ##### trouble-tracer (Trouble Tracers)
+
+  ? Select a default Firebase project for this directory: (Use arrow keys)
+> poonik (Poonik) 
+  shrey-india-reward-point-a530f (shrey-india-reward-points) 
+  shreysportsaus (ShreySportsAus) 
+  trouble-tracer (Trouble Tracers)
+
 ### step : 4 (select this option )
 >(*) Functions: Configure a Cloud Functions directory and its files
 
