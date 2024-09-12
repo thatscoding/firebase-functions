@@ -25,9 +25,9 @@ firebase init
 
   ? Select a default Firebase project for this directory: (Use arrow keys)
 > poonik (Poonik) 
-  shrey-india-reward-point-a530f (shrey-india-reward-points) 
-  shreysportsaus (ShreySportsAus) 
-  trouble-tracer (Trouble Tracers)
+####  shrey-india-reward-point-a530f (shrey-india-reward-points) 
+ #### shreysportsaus (ShreySportsAus) 
+  #### trouble-tracer (Trouble Tracers)
 
 ### step : 4 (select this option )
 >(*) Functions: Configure a Cloud Functions directory and its files
