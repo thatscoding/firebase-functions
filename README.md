@@ -7,13 +7,13 @@ firebase init
 ### step : 2
 ? Are you ready to proceed? (Y/n) y
 
-
-### step : 3
+ 
+### step : 3 (select Use an existing project)
 ? Please select an option: (Use arrow keys)
-> Use an existing project
-  Create a new project
-  Add Firebase to an existing Google Cloud Platform project
-  Don't set up a default project
+###### > Use an existing project
+  ###### Create a new project
+ ###### Add Firebase to an existing Google Cloud Platform project
+  ###### Don't set up a default project
 
 ### step : 4 (select this option )
 >(*) Functions: Configure a Cloud Functions directory and its files
