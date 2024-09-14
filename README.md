@@ -31,6 +31,7 @@ firebase init
 
 ### step : 4 (select this option )
 >(*) Functions: Configure a Cloud Functions directory and its files
+>select funtions emulator 
 
 ### step : 5 
 
